@@ -23,10 +23,10 @@ body{
     background-color: black;
     margin-top: 4px;
 }
-
+/* instead of using external CSS for the div we can use inline style to set the property directly, which works in this case and we dont need the exta click
 .frame1{
-    visibility:hidden;
-}
+    visibility: hidden;
+} */
 
 .frame1 .info{
     font-size: 20px;
